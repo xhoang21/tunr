@@ -1,0 +1,8 @@
+setting.sql
+pipfile.lock
+.vscode
+.env
+*.pyc
+__pycache__/
+# General MacOS files to ignore
+.DS_Store
